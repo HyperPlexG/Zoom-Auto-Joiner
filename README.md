@@ -1,6 +1,6 @@
 Zoom-Auto-Joiner
 
-*DESCRIPTION*
+||DESCRIPTION||
 This is a python program to automatically join a Zoom Meeting using pandas (numpy) and CSV as a data feeder.
 
 *HOW TO RUN*
